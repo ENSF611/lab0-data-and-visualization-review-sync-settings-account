@@ -1,1 +1,8 @@
-# lab0-data-and-visualization-review-sync-settings-account
+# Lab -1 Report
+
+### Screenshot showing Python Versions
+
+
+
+### Screenshot showing Conda Enviroment
+
